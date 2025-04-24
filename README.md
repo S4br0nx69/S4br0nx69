@@ -30,9 +30,10 @@
 - Windows Server, Linux Server, Hypervisor (Hyper-V & Proxmox), Prometheus Grafana
 - GitLab CI/CD, Ansible, Docker, Kubernetes, Nginx, DBMS
 
-## 📈 Certifications & Learning
-- Preparing for **AZ-900** and **SC-900**
-- Passionate about automation, high availability and cloud security
+## 🎓  Certifications & Learning
+- Master’s student in Cloud & Cybersecurity at Epitech.
+- Currently preparing for AZ-900 and SC-900 certifications.
+- Passionate about automation, high availability, and cloud security with a strong focus on DevOps and System Engineering.
 
 ---
 
