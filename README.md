@@ -22,7 +22,7 @@
 ---
 
 ## 🚨 Project Focus
-- Building **OmniSight**, an advanced XDR/EDR 🔐
+- Currently Developing **OmniSight**, an advanced XDR/EDR 🔐
 - Developing a secure **Rust log collector agent** with gRPC integration
 - Architecting hybrid cloud environments (OVH / Hyper-V Clustering / Kubernetes / Docker)
 
