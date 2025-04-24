@@ -39,5 +39,5 @@
 ## ⚡ Fun Fact
 
 ```bash
-# Every time I patch a vuln
-echo "🎯 MTTD + MTTR reduced... system secure."
+# When someone asks why the server restarted...
+echo "It wasn’t me. It was the CRON 👀"
