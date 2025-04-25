@@ -32,7 +32,7 @@
 
 ## 🎓  Certifications & Learning
 - Master’s student in Cloud & Cybersecurity at Epitech.
-- Currently preparing for AZ-900 and SC-900 certifications.
+- Currently preparing for **AZ-900** and **SC-900** certifications.
 - Passionate about automation, high availability, and cloud security with a strong focus on DevOps and System Engineering.
 
 ---
