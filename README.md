@@ -27,7 +27,7 @@
 - Architecting hybrid cloud environments (OVH / Hyper-V Clustering / Kubernetes / Docker)
 
 ## 🧰 Infrastructure I Touch
-- Windows Server, Linux Server, Hypervisor (Hyper-V & Proxmox), Prometheus Grafana
+- Windows Server, Linux Server, Hypervisor (Hyper-V & Proxmox), Monitoring
 - GitLab CI/CD, Ansible, Docker, Kubernetes, Nginx, DBMS
 
 ## 🎓  Certifications & Learning
