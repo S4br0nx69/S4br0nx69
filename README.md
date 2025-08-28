@@ -53,15 +53,6 @@
 
 ---
 
-## 🛣️ Road to Mastery  
-<p align="center">
-  <img src="https://img.shields.io/badge/2025-Cloud & Security Student-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/2026-Cybersecurity Engineer-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Future-CTO 🚀-purple?style=for-the-badge"/>
-</p>
-
----
-
 ## ⚡ Fun Fact  
 ```bash
 # When someone asks why the server restarted...
