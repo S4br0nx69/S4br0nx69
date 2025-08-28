@@ -27,8 +27,10 @@
 - Architecting hybrid cloud environments (OVH / Hyper-V Clustering / Kubernetes / Docker)
 
 ## 🧰 Infrastructure I Touch
-- Windows Server, Linux Server, Hypervisor (Hyper-V & Proxmox), Monitoring
-- GitLab CI/CD, Ansible, Docker, Kubernetes, Nginx, DBMS
+- Systems & Virtualization: Windows Server, Linux Server, Hypervisors (Hyper-V & Proxmox clusters)
+- Observability & Monitoring: Prometheus, Grafana, Centreon, Uptime Kuma
+- Infrastructure & Deployment: GitLab CI/CD, Ansible, Terraform, Docker, Kubernetes, Nginx, DBMS
+- Security: Wazuh, Suricata (IDS/IPS), OpenVAS (Vulnerability Scanning), Fail2ban, Firewalls
 
 ## 🎓  Certifications & Learning
 - Master’s student in Cloud & Cybersecurity at Epitech.
