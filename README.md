@@ -53,14 +53,11 @@
 
 ---
 
-## 📈 GitHub Analytics  
+## 🛣️ Road to Mastery  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabri&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabri&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://img.shields.io/badge/2025-Cloud & Security Student-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/2026-Cybersecurity Engineer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Future-CTO 🚀-purple?style=for-the-badge"/>
 </p>
 
 ---
