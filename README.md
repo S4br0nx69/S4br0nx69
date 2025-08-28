@@ -1,46 +1,71 @@
+<!-- Banner / Intro -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
+
 <h1 align="center">Hi there 👋, I'm Sabri</h1>
-<h3 align="center"> System & Network Engineer • Cybersecurity & DevOps Enthusiast</h3>
-
----
-## ⚙️ Daily Stack
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+<h3 align="center">🚀 System & Network Engineer • Cybersecurity & DevSecOps Enthusiast 🔐</h3>
 
 ---
 
-## 🧠 Currently Learning
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Networking](https://img.shields.io/badge/-Networking-0A66C2?style=flat&logo=gnometerminal&logoColor=white)
-![System Engineering](https://img.shields.io/badge/-System%20Engineering-444444?style=flat&logo=linux&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-0F1117?style=flat&logo=hackthebox&logoColor=green)
+## ⚙️ Daily Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 Currently Learning  
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Engineering-444444?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-0F1117?style=for-the-badge&logo=hackthebox&logoColor=green"/>
+</p>
 
 ---
 
 ## 🚨 Project Focus
-- Currently Developing **OmniSight**, an advanced XDR/EDR 🔐
-- Developing a secure **Rust log collector agent** with gRPC integration
-- Architecting hybrid cloud environments (OVH / Hyper-V Clustering / Kubernetes / Docker)
-
-## 🧰 Infrastructure I Touch
-- Systems & Virtualization: Windows Server, Linux Server, Hypervisors (Hyper-V & Proxmox clusters)
-- Observability & Monitoring: Prometheus, Grafana, Centreon, Uptime Kuma
-- Infrastructure & Deployment: GitLab CI/CD, Ansible, Terraform, Docker, Kubernetes, Nginx, DBMS
-- Security: Wazuh, Suricata (IDS/IPS), OpenVAS (Vulnerability Scanning), Fail2ban, Firewalls
-
-## 🎓  Certifications & Learning
-- Master’s student in Cloud & Cybersecurity at Epitech.
-- Currently preparing for **AZ-900** and **SC-900** certifications.
-- Passionate about automation, high availability, and cloud security with a strong focus on DevOps and System Engineering.
+- 🔐 Developing **OmniSight**, an advanced XDR/EDR  
+- 🦀 Building a secure **Rust log collector agent** with gRPC integration  
+- ☁️ Architecting **hybrid cloud environments** (OVH / Hyper-V / Kubernetes / Docker)
 
 ---
 
-## ⚡ Fun Fact
+## 🧰 Infrastructure I Touch
+💻 **Systems & Virtualization:** Windows Server, Linux Server, Hyper-V, Proxmox  
+📊 **Observability & Monitoring:** Prometheus, Grafana, Centreon, Uptime Kuma  
+⚙️ **Infrastructure & Deployment:** GitLab CI/CD, Ansible, Terraform, Docker, Kubernetes, Nginx, DBMS  
+🛡️ **Security:** Wazuh, Suricata (IDS/IPS), OpenVAS, Fail2ban, Firewalls  
 
+---
+
+## 🎓 Certifications & Learning
+🎓 Master’s student in **Cloud & Cybersecurity @ Epitech**  
+📘 Preparing for **AZ-900** & **SC-900**  
+💡 Passionate about **automation, high availability & cloud security**  
+
+---
+
+## 📈 GitHub Analytics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sabri&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sabri&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabri&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## ⚡ Fun Fact  
 ```bash
 # When someone asks why the server restarted...
 echo "It wasn’t me. It was the CRON 👀"
