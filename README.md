@@ -48,7 +48,6 @@
 
 ## 🎓 Certifications & Learning
 🎓 Master’s student in **Cloud & Cybersecurity @ Epitech**  
-📘 Preparing for **AZ-900** & **SC-900**  
 💡 Passionate about **automation, high availability & cloud security**  
 
 ---
